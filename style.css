@@ -67,4 +67,7 @@ button{
 .gr{
     color: rgb(5, 173, 5);
     font-size: 25px;
+    width: 100px;
+    border-radius: 3px;
+    height: 40 ;
 }
